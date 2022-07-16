@@ -21,6 +21,63 @@
     </entry>
     
     
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="//post/HelloWorld.html"/>
+      <url>//post/HelloWorld.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="//post/Hello.World.html"/>
+      <url>//post/Hello.World.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="//post/HelloWorld_.html"/>
+      <url>//post/HelloWorld_.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
