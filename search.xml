@@ -5,8 +5,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="//post/Hello%20World.html"/>
-      <url>//post/Hello%20World.html</url>
+      <link href="//post/Hello.World.html"/>
+      <url>//post/Hello.World.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -24,8 +24,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="//post/Hello.World.html"/>
-      <url>//post/Hello.World.html</url>
+      <link href="//post/Hello%20World.html"/>
+      <url>//post/Hello%20World.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
