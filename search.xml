@@ -24,8 +24,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="//post/HelloWorld.html"/>
-      <url>//post/HelloWorld.html</url>
+      <link href="//post/Hello.World.html"/>
+      <url>//post/Hello.World.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -43,8 +43,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="//post/Hello.World.html"/>
-      <url>//post/Hello.World.html</url>
+      <link href="//post/HelloWorld.html"/>
+      <url>//post/HelloWorld.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
